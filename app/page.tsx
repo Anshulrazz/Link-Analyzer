@@ -101,6 +101,7 @@ export default function Home() {
 
   return (
     <div className="container mx-auto p-4">
+      <h2>Made By Anshul Kumar</h2>
       <h1 className="text-3xl font-bold mb-6">Link Analyzer</h1>
       <form onSubmit={handleSubmit} className="mb-6">
         <div className="flex gap-2">
